@@ -1,9 +1,9 @@
 <?php
 use Illuminate\Support\Facades\Route;
 
-Route::get('greeting', function () {
-    return 'Hi, this is your awesome package! rswa';
-});
+// Route::get('greeting', function () {
+//     return 'Hi, this is your awesome package! rswa';
+// });
 
 // Route::get('Lasa/test', 'EdgeWizz\Lasa\Controllers\LasaController@test')->name('test');
 
